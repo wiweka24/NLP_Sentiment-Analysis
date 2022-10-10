@@ -11,3 +11,4 @@
 ## File
 - __<a href="https://youtu.be/uZtoP_wH1dI">Video Presentasi</a>__
 - __<a href="https://docs.google.com/presentation/d/1YdM5fXEN-LIfkjM_6nEpQtyoU3gUFaf4Vz_QCf6S47k/edit#slide=id.p">Slide Presentasi</a>__
+- __<a href="https://www.kaggle.com/code/deniyulian/notebookb5ab3d68d2/data">Dataset</a>__
