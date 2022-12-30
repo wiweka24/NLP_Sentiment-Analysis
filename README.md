@@ -24,8 +24,8 @@ Sentimenet Analysis Menggunakan Pretrained Model Bert dan Uji Data Tweet menggun
 </div>
 
 ## About
-- File 1 berisi sentiment analysis menggunakan Model Bert dan Data Twitter dengan Twint
-- File 1 berisi sentiment analysis menggunakan Regresi Linear dan Data Twitter dengan Tweepy
+- [File 1][file-1] berisi sentiment analysis menggunakan Model Bert dan Data Twitter dengan Twint
+- [File 2][file-2] berisi sentiment analysis menggunakan Regresi Linear dan Data Twitter dengan Tweepy
 
 ## Anggota
 - [Wiweka Yoga Sadewa](https://github.com/wiweka24)
@@ -39,3 +39,5 @@ Sentimenet Analysis Menggunakan Pretrained Model Bert dan Uji Data Tweet menggun
 [video-file]: https://youtu.be/uZtoP_wH1dI
 [ppt-file]: https://docs.google.com/presentation/d/1YdM5fXEN-LIfkjM_6nEpQtyoU3gUFaf4Vz_QCf6S47k/edit#slide=id.p
 [dataset]: https://www.kaggle.com/code/deniyulian/notebookb5ab3d68d2/data
+[file-1]: https://github.com/wiweka24/NLP_Sentiment-Analysis/blob/main/1_Sentiment_Analysis_Bert_Twint.ipynb
+[file-2]: https://github.com/wiweka24/NLP_Sentiment-Analysis/blob/main/2_Sentiment_Analysis_Linear%20Regression_Tweepy.ipynb
