@@ -17,14 +17,15 @@ Sentimenet Analysis Menggunakan Pretrained Model Bert dan Uji Data Tweet menggun
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-[Preview](#preview) •
+[About](#about) •
 [Author](#anggota) •
-[Output Structure](#output-structure) •
-[Prerequisites](#prerequisites) •
-[Getting Started](#getting-started) •
 [Support File](#support-file)
 
 </div>
+
+## About
+- File 1 berisi sentiment analysis menggunakan Model Bert dan Data Twitter dengan Twint
+- File 1 berisi sentiment analysis menggunakan Regresi Linear dan Data Twitter dengan Tweepy
 
 ## Anggota
 - [Wiweka Yoga Sadewa](https://github.com/wiweka24)
